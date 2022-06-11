@@ -13,7 +13,7 @@ date time
 year-month-day
 hour:minute:second
 Appliances, energy use in Whlights,
-energy use of light fixtures in the house in WhT1,
+energy use of light fixtures in the house in Wh T1,
 Temperature in kitchen area, in Celsius RH_1,
 Humidity in kitchen area, in %T2,
 Temperature in living room area, in Celsius RH_2,
