@@ -1,4 +1,4 @@
-﻿DESCRIPTION
+DESCRIPTION
 Experimental data used to create regression models of appliances energy use in a low energy building.
 SUMMARY
 Experimental data used to create regression models of appliances energy use in a low energy building.# Source:
@@ -16,13 +16,13 @@ Appliances, energy use in Whlights,
 energy use of light fixtures in the house in WhT1,
 Temperature in kitchen area, in CelsiusRH_1,
 Humidity in kitchen area, in %T2,
-Temperature in living room area, in CelsiusRH_2
-, Humidity in living room area, in %T3,
+Temperature in living room area, in CelsiusRH_2,
+Humidity in living room area, in %T3,
 Temperature in laundry room areaRH_3,
 Humidity in laundry room area, in %T4
 Temperature in office room, in CelsiusRH_4,
-Humidity in office room, in %T5
-, Temperature in bathroom, in CelsiusRH_5,
+Humidity in office room, in %T5, 
+Temperature in bathroom, in CelsiusRH_5,
 Humidity in bathroom, in %T6,
 Temperature outside the building (north side), in CelsiusRH_6,
 Humidity outside the building (north side), in %T7,
